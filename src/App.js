@@ -1,3 +1,6 @@
+//Initial part of this project was done by following the Youtube channel 'The WebDev Coach'
+//Therefore Credit for 75% of this code goes to the channel
+
 import React, { Component } from "react";
 import { random } from "lodash";
 import "typeface-roboto";
